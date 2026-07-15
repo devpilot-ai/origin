@@ -6,7 +6,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](./CONTRIBUTING.md)
 
-![Origin Logo Placeholder](./assets/logo-placeholder.svg)
+
+<img width="2816" height="1536" alt="Logo" src="https://github.com/user-attachments/assets/05931fe0-6bbe-44e9-ade8-ea7ca617dfb2" />
+
 
 ## Vision
 
