@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+.pnpm-store/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build / Distribution
+dist/
+build/
+*.egg-info/
+
+# Coverage
+coverage/
+.coverage
+.coverage.*
+htmlcov/
+
+# Logs
+logs/
+*.log
+
+# Secrets / Environment Variables
+.env.*
+*.pem
+*.key
+*.crt
+
+# IDE - VS Code
+.vscode/
+
+# IDE - JetBrains
+.idea/
+*.iml
+
+# Docker
+.docker/
+
+# OS - macOS
+.DS_Store
+
+# OS - Windows
+Thumbs.db
+Desktop.ini

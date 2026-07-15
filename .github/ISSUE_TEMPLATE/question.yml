@@ -1,0 +1,7 @@
+name: Question
+description: Ask a project question
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: "## Question (Placeholder)"
