@@ -1,0 +1,14 @@
+:root {
+  --bg-canvas: #0a0a0b;
+  --bg-surface: #131315;
+  --bg-surface-raised: #1c1c1f;
+  --border-hairline: #2a2a2e;
+  --text-primary: #ededef;
+  --text-secondary: #9c9ca3;
+  --text-tertiary: #5c5c63;
+  --accent-signal: #5eead4;
+  --accent-signal-dim: rgba(45, 212, 191, 0.4);
+  --status-success: #4ade80;
+  --status-warn: #fbbf24;
+  --status-error: #f87171;
+}
