@@ -1,0 +1,11 @@
+name: docker-build
+
+on:
+  workflow_dispatch:
+
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder
+        run: echo "docker-build workflow placeholder"
